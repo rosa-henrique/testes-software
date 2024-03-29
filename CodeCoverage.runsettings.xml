@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModulePaths>
+	<Include>
+		<ModulePath>.*.dll</ModulePath>
+		<ModulePath>.*.dll</ModulePath>
+		<!-- Add more ModulePath nodes here. -->
+	</Include>
+</ModulePaths>
